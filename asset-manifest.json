@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Satyajeet-Desai/static/css/main.97cc4d46.css",
+    "main.js": "/Satyajeet-Desai/static/js/main.0d30b731.js",
+    "static/js/453.af9762f0.chunk.js": "/Satyajeet-Desai/static/js/453.af9762f0.chunk.js",
+    "static/media/Overlay.mp4": "/Satyajeet-Desai/static/media/Overlay.7b17e48e7793f928f4a4.mp4",
+    "static/media/LOGO0001-0120.mp4": "/Satyajeet-Desai/static/media/LOGO0001-0120.3f5fc4f543f6e5198b36.mp4",
+    "index.html": "/Satyajeet-Desai/index.html",
+    "main.97cc4d46.css.map": "/Satyajeet-Desai/static/css/main.97cc4d46.css.map",
+    "main.0d30b731.js.map": "/Satyajeet-Desai/static/js/main.0d30b731.js.map",
+    "453.af9762f0.chunk.js.map": "/Satyajeet-Desai/static/js/453.af9762f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97cc4d46.css",
+    "static/js/main.0d30b731.js"
+  ]
+}
